@@ -4,3 +4,4 @@ psycopg2-binary == 2.9.13
 ruff == 0.17.1
 django-environ == 0.14.0
 djangorestframework == 3.18.3
+ruff
