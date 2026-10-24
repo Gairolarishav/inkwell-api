@@ -7,3 +7,6 @@ Description: This is project for my Django and Drf practice. In this i am buildi
 
 ## Resources Used
 1. Youtube video to understand Linting in Django.
+2. Stackoverflow to find the solution for problems.
+3. Use Official docs
+4. Use little bit gemini not to solve bugs , not too deep or solve any logic.
